@@ -1,0 +1,5 @@
+( 2012/05/04 18:47:53 )   Today 5 Skids came in and 3 Went out. we now have 2   Skids in the Warehouse ( Enterd By: kyle )Delivered by: bill
+( 2012/05/04 18:47:53 )   Today 9 Skids came in and 0 Went out. we now have 11   Skids in the Warehouse ( Enterd By: kyle )Delivered by: blayne
+( 2012/05/05 16:57:29 )   Today 1 Skids came in and 0 Went out. we now have 12   Skids in the Warehouse ( Enterd By: kyle )Delivered by: bill
+( 2012/05/05 16:57:29 )   Today 0 Skids came in and 1 Went out. we now have 11   Skids in the Warehouse ( Enterd By: kyle )Delivered by: blayne
+( 2012/06/13 17:36:48 )   Today 8 Skids came in and 0 Went out. we now have 19   Skids in the Warehouse ( Enterd By: kyle )Delivered by: bill
